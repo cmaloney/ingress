@@ -8,7 +8,7 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/spf13/pflag"
+	"k8s.io/ingress/vendor/github.com/spf13/pflag"
 
 	api "k8s.io/api/core/v1"
 	extensions "k8s.io/api/extensions/v1beta1"
